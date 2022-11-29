@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Thori Bonner",
+	"description": "Free Code Camp Back End Development and APIs",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
