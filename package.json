@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
 	"author": "Thori Bonner",
 	"description": "Free Code Camp Back End Development and APIs",
 	"license": "MIT",
